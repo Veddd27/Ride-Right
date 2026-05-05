@@ -1,0 +1,4 @@
+models/model.pkl
+data/uber.csv
+__pycache__/
+.ipynb_checkpoints/
